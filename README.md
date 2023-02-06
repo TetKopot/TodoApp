@@ -1,4 +1,4 @@
-[DEMO LINK](https://TetKopot.github.io/<repo_name>/)   
+[DEMO LINK](https://TetKopot.github.io/react_todo-app-with-api/)   
 Todo App is implemented with help of JS, TS, React and is able to:  
 -load the user todos when the App is loaded  
 -add a todo  
